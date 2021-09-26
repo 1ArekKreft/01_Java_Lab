@@ -9,7 +9,7 @@ public class Main {
         /*  zad.1 napisać interfejs który bedzie słuzył do wpisania danych osobowych:
         *   a) Imię, nazwisko, wiek, nr indeksu,
         *   dane mają być wprowadzane z klawiatury w konsoli
-        *   b) wyświetlić dane za pomocą println i printf
+        *   b) wyświetlić dane za pomocą println i printf dsdsd
         */
 
 
