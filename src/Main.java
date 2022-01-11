@@ -20,6 +20,8 @@ public class Main {
         System.out.println(znak);
         System.out.println(cyfra);
         System.out.println(floatcyfra);
+
+        System.out.println();
         /*
         *    zad.2 Napisz kod który będzie wykonywał operacje: dodawania, odejmowania,
         *    mnożenia, dziealenia i modulo na zmiennych:
@@ -27,7 +29,14 @@ public class Main {
         *    b) liczbaX i liczbaY, dowolne liczby zmiennoprzecinkowe (double)
         *  */
 
+        int liczbaA = 53;
+        int liczbaB = 11;
 
+        System.out.println(liczbaA+liczbaB);
+        System.out.println(liczbaA-liczbaB);
+        System.out.println(liczbaA*liczbaB);
+        System.out.println(liczbaA/liczbaB);
+        System.out.println(liczbaA%liczbaB);
 
     }
 }
